@@ -1,1 +1,2 @@
-## Start of react js on the main channel
+## Start of the react js tutorial series from FREECODECAMP
+
